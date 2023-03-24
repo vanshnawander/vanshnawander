@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **object detection using Tensorflow**
 
-- 🌱 I’m currently learning **kubernetes, blockchin, cloud and deep Learning**
+- 🌱 I’m currently learning **kubernetes, blockchain, cloud and deep Learning**
 
 - 👨‍💻 Know more about me [https://vanshnawander.github.io/portfolio_vansh/](https://vanshnawander.github.io/portfolio_vansh/)
 
