@@ -7,11 +7,13 @@
 
 - 🌱 I’m currently learning **kubernetes, blockchin, cloud and deep Learning**
 
+- 👨‍💻 All of my projects are available at [https://vanshnawander.github.io/portfolio_vansh/](https://vanshnawander.github.io/portfolio_vansh/)
+
 - 💬 Ask me about **python, competitive programming**
 
 - 📫 How to reach me **vanshnawander@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1BYtcKcVImxr3i2zqRUzXvxm-u3v_MX0S/edit](https://docs.google.com/document/d/1BYtcKcVImxr3i2zqRUzXvxm-u3v_MX0S/edit)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1q5HRICPo9HDoIVAmgnQivG1blTTsuTsz/view?usp=share_link](https://drive.google.com/file/d/1q5HRICPo9HDoIVAmgnQivG1blTTsuTsz/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
