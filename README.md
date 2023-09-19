@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshnawander&label=Profile%20views&color=0e75b6&style=flat" alt="vanshnawander" /> </p>
 
-- 🔭 I’m currently working on **object detection using Tensorflow**
+- 🔭 I’m currently working on **Auto Eval project based on LLMs and AI**
 
-- 🌱 I’m currently learning **Unity AR/VR, blockchain, cloud and deep Learning**
+- 🌱 I’m currently learning **FastAPI, Node.js, AI and ML**
 
 - 👨‍💻 Know more about me [https://vanshnawander.github.io/portfolio_vansh/](https://vanshnawander.github.io/portfolio_vansh/)
 
