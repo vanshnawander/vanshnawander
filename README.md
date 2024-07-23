@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshnawander&label=Profile%20views&color=0e75b6&style=flat" alt="vanshnawander" /> </p>
 
-- 🔭 I’m currently working on **Auto Eval project based on LLMs and AI**
+- 🔭 I’m currently working on **LLMs and AI**
 
-- 🌱 I’m currently learning **FastAPI, Node.js, AI and ML**
+- 🌱 I’m currently learning **FastAPI, FLask, MERN,  Node.js, AI, and ML**
 
-- 💬 Ask me about **python, competitive programming**
+- 💬 Ask me about **python, LLMs, AI, backend competitive programming**
 
 - 📫 How to reach me **vanshnawander@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1q5HRICPo9HDoIVAmgnQivG1blTTsuTsz/view?usp=share_link](https://drive.google.com/file/d/1q5HRICPo9HDoIVAmgnQivG1blTTsuTsz/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1AabPgku7RHpZD7L_FBJJKM7yRDDFAGEs/view?usp=sharing](https://drive.google.com/file/d/1AabPgku7RHpZD7L_FBJJKM7yRDDFAGEs/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
