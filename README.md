@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **vanshnawander@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AabPgku7RHpZD7L_FBJJKM7yRDDFAGEs/view?usp=sharing](https://drive.google.com/file/d/1AabPgku7RHpZD7L_FBJJKM7yRDDFAGEs/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vanshnawander" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vanshnawander" height="30" width="40" /></a>
