@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vansh Nawander</h1>
-<h3 align="center">A developer/competitive coder from India</h3>
+<h3 align="center">A developer/freelancer and AI enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshnawander&label=Profile%20views&color=0e75b6&style=flat" alt="vanshnawander" /> </p>
 
 - 🔭 I’m currently working on **LLMs and AI**
 
-- 🌱 I’m currently learning **FastAPI, FLask, MERN,  Node.js, AI, and ML**
+- 🌱 I’m currently learning **FastAPI, MERN, AI & ML, and exploring embeddings**
 
-- 💬 Ask me about **python, LLMs, AI, backend competitive programming**
+- 💬 Ask me about **python, LLMs, AI, backend, vectorDB**
 
 - 📫 How to reach me **vanshnawander@gmail.com**
 
