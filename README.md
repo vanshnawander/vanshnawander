@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vansh Nawander</h1>
-<h3 align="center">Masters at IIIT-H, exploring HPC, AI and random stuff</h3>
+<h3 align="center">pursuing Masters at IIIT-H, exploring HPC, AI and random stuff</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshnawander&label=Profile%20views&color=0e75b6&style=flat" alt="vanshnawander" /> </p>
 
