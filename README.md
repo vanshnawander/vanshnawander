@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on **LLMs and AI**
 
-- 🌱 I’m currently learning **FastAPI, MERN, AI & ML, and exploring embeddings**
-
-- 💬 Ask me about **python, LLMs, AI, backend, vectorDB**
+- 🌱 I’m currently learning **CUDA, Mojo, Pytorch, Math and Deep Learning Theory**
 
 - 📫 How to reach me **vanshnawander@gmail.com**
 
